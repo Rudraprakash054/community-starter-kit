@@ -1,10 +1,12 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+1.chat with users and fixing bugs
+2.Design with programming
 
 ## What it does
 
-FEATURES PLACEHOLDER
+1.interact with active respositories 
+2.fliteering labels
 
 ## Getting started
 
